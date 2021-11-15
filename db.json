@@ -1,0 +1,76 @@
+{
+    "producto": [
+        {
+            "id": 1,
+            "categoria": "Aventura",
+            "juegos":[
+                {
+                    "id": 1,
+                    "nombre": "Grand Theft Auto V",
+                    "descripcion": "Vive la aventura de unos mafiosos tu mismo.",
+                    "precio": 5000,
+                    "fechaPublicacion": "05/09/2012",
+                    "cantidadDisponible": 2,
+                    "urlImagen": "https://static.wikia.nocookie.net/esgta/images/1/1b/Car%C3%A1tula_GTA_V.jpg/revision/latest?cb=20130402191528"
+                },
+                {   
+                    "id": 2,
+                    "nombre": "The Elder Scrolls V - Skyrim",
+                    "descripcion": "Lucha contra dragones y disfruta de una aventura epica.",
+                    "precio": 5500,
+                    "fechaPublicacion": "11/11/2011",
+                    "cantidadDisponible": 3,
+                    "urlImagen": "https://static.wikia.nocookie.net/elderscrolls/images/c/c5/Skyrim_Cover.png/revision/latest?cb=20160812173034"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "Terror",
+            "juegos":[
+            {
+                "id": 1,
+                "nombre": "Dead Space 2",
+                "descripcion": "Embarcate en una nave espacial abandonada llena de mounstruos a la vuelta de cada pasillo.",
+                "precio": 4000,
+                "fechaPublicacion": "27/01/2011",
+                "cantidadDisponible": 4,
+                "urlImagen": "https://static.wikia.nocookie.net/deadspace/images/3/37/Dead_Space_2_Boxart.jpg/revision/latest?cb=20110130230007&path-prefix=es"
+            },
+            {
+                "id": 2,
+                "nombre": "Outlast 2",
+                "descripcion": "Descubre los horrores que se esconden en un pueblo oculto entre las montañas.",
+                "precio": 4300,
+                "fechaPublicacion": "25/04/2017",
+                "cantidadDisponible": 5,
+                "urlImagen": "https://uvejuegos.com/img/caratulas/60079/Outlast-II.jpg"
+            }
+        ]
+        },
+        {
+            "id": 3,
+            "categoria": "Estrategia",
+            "juegos":[
+                {
+                    "id": 1,
+                    "nombre": "StarCraft 2",
+                    "descripcion": "Planea y defiendete de los ataques de las criaturas del espacio.",
+                    "precio": 2500,
+                    "fechaPublicacion": "27/07/2010",
+                    "cantidadDisponible": 8,
+                    "urlImagen": "https://media.vandal.net/m/7225/2010729161757_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Age of Empires Definitive Edition",
+                    "descripcion": "Crece junto a tu civilizacion y experimenta los eventos mas iconicos de la historia.",
+                    "precio": 3000,
+                    "fechaPublicacion": "14/11/2019",
+                    "cantidadDisponible": 10,
+                    "urlImagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/02/aoe-portada.jpg?itok=6SXuyRqo"
+                }
+            ]
+        }
+    ]
+}
